@@ -4,3 +4,4 @@ The paper outlying the full method on how these plots are used for detector-rela
 
 The scripts are created by Joseph Zennamo, Lauren Yates, Maya Wospakrik, Arturo Fiorentini, and Richard Diurba.
 
+Each directory contains its own instructions and the process is sequential from reco2 files to splines showing ratios of widths and integrals between data and simulation.
